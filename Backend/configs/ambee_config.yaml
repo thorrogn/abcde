@@ -1,0 +1,12 @@
+# Ambee API Configuration
+api:
+  # Replace with your actual Ambee API key
+  api_key: "0a0fa0a959d49d0a4f56aac17ed1f4aaa84fa14ac26c26d2377cb1ef58d15718" 
+
+# Default Coordinates for weather data
+coordinates:
+  # Example: New York City
+  lat: 40.7128
+  lng: -74.0060
+
+# You can add other configuration here if needed in the future

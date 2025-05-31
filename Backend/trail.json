@@ -1,0 +1,57 @@
+{
+    "id": 50910,
+    "name": "Benin: Floods - Sep 2021",
+    "description": "........",
+    "status": "past",
+    "glide": "FL-2021-000145-BEN",
+    "primary_country": {
+        "href": "https://api.reliefweb.int/v1/countries/36?appname=my-disaster-app",
+        "id": 36,
+        "name": "Benin",
+        "shortname": "Benin",
+        "iso3": "ben",
+        "location": {
+            "lat": 10.34,
+            "lon": 2.43
+        }
+    },
+    "primary_type": {
+        "id": 4611,
+        "name": "Flood",
+        "code": "FL"
+    },
+    "country": [
+        {
+            "href": "https://api.reliefweb.int/v1/countries/36?appname=my-disaster-app",
+            "id": 36,
+            "name": "Benin",
+            "shortname": "Benin",
+            "iso3": "ben",
+            "location": {
+                "lat": 10.34,
+                "lon": 2.43
+            },
+            "primary": true
+        }
+    ],
+    "type": [
+        {
+            "id": 4611,
+            "name": "Flood",
+            "code": "FL",
+            "primary": true
+        }
+    ],
+    "url": "https://reliefweb.int/taxonomy/term/50910",
+    "url_alias": "https://reliefweb.int/disaster/fl-2021-000145-ben",
+    "date": {
+        "changed": "2021-12-07T16:57:44+00:00",
+        "created": "2021-09-06T00:00:00+00:00",
+        "event": "2021-09-06T00:00:00+00:00"
+    },
+    "description-html": "......",
+    "profile": {
+        "overview": "......" ,
+        "overview-html": "......."
+    }
+}

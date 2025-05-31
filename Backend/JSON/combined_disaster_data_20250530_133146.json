@@ -1,0 +1,160 @@
+{
+    "gdacs_alerts": [
+        {
+            "title": "Green earthquake alert (Magnitude 6.2M, Depth:10km) in [unknown] 30/05/2025 05:36 UTC, No people affected in 100km.",
+            "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483787",
+            "pubDate": "Fri, 30 May 2025 05:55:38 GMT",
+            "description": "On 5/30/2025 5:36:38 AM, an earthquake occurred in [unknown] potentially affecting No people affected in 100km. The earthquake had Magnitude 6.2M, Depth:10km.",
+            "guid": "EQ1483787",
+            "severity": {
+                "@unit": "M",
+                "@value": "6.2",
+                "#text": "Magnitude 6.2M, Depth:10km"
+            },
+            "severitylevel": null,
+            "eventtype": "EQ",
+            "country": null,
+            "population": null,
+            "vulnerability": null,
+            "coordinates": "-53.3145 9.1611"
+        },
+        {
+            "title": "Green forest fire alert in Canada",
+            "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1023982",
+            "pubDate": "Thu, 29 May 2025 19:00:13 GMT",
+            "description": "On 29/05/2025, a forest fire started in Canada,  until 29/05/2025.",
+            "guid": "WF1023982",
+            "severity": {
+                "@unit": "ha",
+                "@value": "11360",
+                "#text": "Green impact for forestfire in 11360 ha"
+            },
+            "severitylevel": null,
+            "eventtype": "WF",
+            "country": "Canada",
+            "population": "0 people affected in the area",
+            "vulnerability": null,
+            "coordinates": "59.465746922421751 -120.10768906237615"
+        },
+        {
+            "title": "Green alert for tropical cyclone ALVIN-25. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+            "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001163",
+            "pubDate": "Wed, 28 May 2025 20:50:38 GMT",
+            "description": "From 28/05/2025 to 30/05/2025, a Tropical Storm (maximum wind speed of 93 km/h) ALVIN-25 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+            "guid": "TC1001163",
+            "severity": {
+                "@unit": "km/h",
+                "@value": "92.592",
+                "#text": "Tropical Storm (maximum wind speed of 93 km/h)"
+            },
+            "severitylevel": null,
+            "eventtype": "TC",
+            "country": null,
+            "population": "Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm)",
+            "vulnerability": null,
+            "coordinates": "16 -107.9"
+        },
+        {
+            "title": "Green earthquake alert (Magnitude 5.8M, Depth:59.416km) in Guam 28/05/2025 13:34 UTC, 180 thousand in 100km.",
+            "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483551",
+            "pubDate": "Wed, 28 May 2025 13:45:13 GMT",
+            "description": "On 5/28/2025 1:34:17 PM, an earthquake occurred in Guam potentially affecting 180 thousand in 100km. The earthquake had Magnitude 5.8M, Depth:59.416km.",
+            "guid": "EQ1483551",
+            "severity": {
+                "@unit": "M",
+                "@value": "5.8",
+                "#text": "Magnitude 5.8M, Depth:59.4km"
+            },
+            "severitylevel": null,
+            "eventtype": "EQ",
+            "country": "Guam",
+            "population": "160 thousand in MMI IV",
+            "vulnerability": null,
+            "coordinates": "12.8468 144.9435"
+        },
+        {
+            "title": "Green earthquake alert (Magnitude 5.9M, Depth:202.438km) in Vanuatu 28/05/2025 08:57 UTC, 20 thousand in 100km.",
+            "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483527",
+            "pubDate": "Wed, 28 May 2025 09:13:39 GMT",
+            "description": "On 5/28/2025 8:57:48 AM, an earthquake occurred in Vanuatu potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.9M, Depth:202.438km.",
+            "guid": "EQ1483527",
+            "severity": {
+                "@unit": "M",
+                "@value": "5.9",
+                "#text": "Magnitude 5.9M, Depth:202.4km"
+            },
+            "severitylevel": null,
+            "eventtype": "EQ",
+            "country": "Vanuatu",
+            "population": "20 thousand in MMI IV",
+            "vulnerability": null,
+            "coordinates": "-14.2672 167.2762"
+        }
+    ],
+    "reliefweb_disasters": [
+        {
+            "id": "52372",
+            "score": 1,
+            "fields": {
+                "id": 52372,
+                "uuid": "92de043a-2649-4422-bc0c-6801c5ec4d34",
+                "name": "Zimbabwe: Malaria Outbreak - May 2025",
+                "description": "The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. ([IFRC, 19 May 2025](https://reliefweb.int/node/4153700))",
+                "status": "ongoing",
+                "glide": "EP-2025-000075-ZWE",
+                "primary_country": {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=my-disaster-app",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    }
+                },
+                "primary_type": {
+                    "id": 4642,
+                    "name": "Epidemic",
+                    "code": "EP"
+                },
+                "country": [
+                    {
+                        "href": "https://api.reliefweb.int/v1/countries/257?appname=my-disaster-app",
+                        "id": 257,
+                        "name": "Zimbabwe",
+                        "shortname": "Zimbabwe",
+                        "iso3": "zwe",
+                        "location": {
+                            "lat": -19.19,
+                            "lon": 29.94
+                        },
+                        "primary": true
+                    }
+                ],
+                "type": [
+                    {
+                        "id": 4642,
+                        "name": "Epidemic",
+                        "code": "EP",
+                        "primary": true
+                    }
+                ],
+                "url": "https://reliefweb.int/taxonomy/term/52372",
+                "url_alias": "https://reliefweb.int/disaster/ep-2025-000075-zwe",
+                "date": {
+                    "changed": "2025-05-29T07:28:11+00:00",
+                    "created": "2025-05-29T07:20:42+00:00",
+                    "event": "2025-05-03T00:00:00+00:00"
+                },
+                "current": true,
+                "description-html": "<p>The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. (<a href=\"https://reliefweb.int/node/4153700\">IFRC, 19 May 2025</a>)</p>\n",
+                "profile": {
+                    "overview": "The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. ([IFRC, 19 May 2025](https://reliefweb.int/node/4153700))",
+                    "overview-html": "<p>The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. (<a href=\"https://reliefweb.int/node/4153700\">IFRC, 19 May 2025</a>)</p>\n"
+                }
+            },
+            "href": "https://api.reliefweb.int/v1/disasters/52372?appname=my-disaster-app"
+        }
+    ]
+}

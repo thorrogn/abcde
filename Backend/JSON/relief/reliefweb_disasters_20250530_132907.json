@@ -1,0 +1,66 @@
+[
+    {
+        "id": "52372",
+        "score": 1,
+        "fields": {
+            "id": 52372,
+            "uuid": "92de043a-2649-4422-bc0c-6801c5ec4d34",
+            "name": "Zimbabwe: Malaria Outbreak - May 2025",
+            "description": "The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. ([IFRC, 19 May 2025](https://reliefweb.int/node/4153700))",
+            "status": "ongoing",
+            "glide": "EP-2025-000075-ZWE",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v1/countries/257?appname=my-disaster-app",
+                "id": 257,
+                "name": "Zimbabwe",
+                "shortname": "Zimbabwe",
+                "iso3": "zwe",
+                "location": {
+                    "lat": -19.19,
+                    "lon": 29.94
+                }
+            },
+            "primary_type": {
+                "id": 4642,
+                "name": "Epidemic",
+                "code": "EP"
+            },
+            "country": [
+                {
+                    "href": "https://api.reliefweb.int/v1/countries/257?appname=my-disaster-app",
+                    "id": 257,
+                    "name": "Zimbabwe",
+                    "shortname": "Zimbabwe",
+                    "iso3": "zwe",
+                    "location": {
+                        "lat": -19.19,
+                        "lon": 29.94
+                    },
+                    "primary": true
+                }
+            ],
+            "type": [
+                {
+                    "id": 4642,
+                    "name": "Epidemic",
+                    "code": "EP",
+                    "primary": true
+                }
+            ],
+            "url": "https://reliefweb.int/taxonomy/term/52372",
+            "url_alias": "https://reliefweb.int/disaster/ep-2025-000075-zwe",
+            "date": {
+                "changed": "2025-05-29T07:28:11+00:00",
+                "created": "2025-05-29T07:20:42+00:00",
+                "event": "2025-05-03T00:00:00+00:00"
+            },
+            "current": true,
+            "description-html": "<p>The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. (<a href=\"https://reliefweb.int/node/4153700\">IFRC, 19 May 2025</a>)</p>\n",
+            "profile": {
+                "overview": "The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. ([IFRC, 19 May 2025](https://reliefweb.int/node/4153700))",
+                "overview-html": "<p>The malaria outbreak has resulted in increased morbidity and mortality, with 85 confirmed deaths reported as of 26 April 2025. The surge in malaria cases has placed additional pressure on healthcare facilities, particularly in rural areas where resources are limited. Clinics and hospitals have faced increased patient loads, leading to potential shortages in medical supplies and staff fatigue. The focus on managing the malaria outbreak has diverted attention and resources from other essential health services, such as maternal and child health programs, immunizations, and management of chronic diseases. (<a href=\"https://reliefweb.int/node/4153700\">IFRC, 19 May 2025</a>)</p>\n"
+            }
+        },
+        "href": "https://api.reliefweb.int/v1/disasters/52372?appname=my-disaster-app"
+    }
+]

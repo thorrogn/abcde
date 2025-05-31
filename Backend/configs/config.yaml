@@ -1,0 +1,3 @@
+urls:
+  gdacs: https://www.gdacs.org/xml/rss.xml
+  reliefweb: https://api.reliefweb.int/v1/disasters?appname=disaster-app&profile=full

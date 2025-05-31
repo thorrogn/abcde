@@ -1,0 +1,25 @@
+api:
+  scheme: "https"
+  host: "api.reliefweb.int"
+  path: "/v1/disasters"
+  appname: "my-disaster-app"
+
+query:
+  limit: 1
+  profile: "full"         # Options: 'full', 'basic'
+  status: "all"           # Options: 'current', 'past', 'all'
+  sort: ["date:desc"]     # Sort by date descending
+  filters:
+    primary_country: ""   # ISO3 or country name (e.g., "BEN" or "Benin")
+    primary_type: ""      # Disaster type name or code (e.g., "Flood", "FL")
+
+output:
+  fields:                 # Leave empty to print all fields
+    - id
+    - name
+    - status
+    - glide
+    - primary_country
+    - primary_type
+    - date
+    - url

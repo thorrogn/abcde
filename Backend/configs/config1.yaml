@@ -1,0 +1,15 @@
+gdacs_url: "https://www.gdacs.org/xml/rss.xml"
+max_alerts_to_process: 5
+relevant_fields:
+  - 'title'
+  - 'link'
+  - 'pubDate'
+  - 'description'
+  - 'guid'
+  - 'severity'
+  - 'severitylevel'
+  - 'eventtype'
+  - 'country'
+  - 'population'
+  - 'vulnerability'
+  - 'coordinates' # This maps to georss:point in the XML

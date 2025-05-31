@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Green earthquake alert (Magnitude 6.2M, Depth:10km) in [unknown] 30/05/2025 05:36 UTC, No people affected in 100km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483787",
+        "pubDate": "Fri, 30 May 2025 05:55:38 GMT",
+        "description": "On 5/30/2025 5:36:38 AM, an earthquake occurred in [unknown] potentially affecting No people affected in 100km. The earthquake had Magnitude 6.2M, Depth:10km.",
+        "guid": "EQ1483787",
+        "severity": {
+            "@unit": "M",
+            "@value": "6.2",
+            "#text": "Magnitude 6.2M, Depth:10km"
+        },
+        "severitylevel": null,
+        "eventtype": "EQ",
+        "country": null,
+        "population": null,
+        "vulnerability": null,
+        "coordinates": "-53.3145 9.1611"
+    },
+    {
+        "title": "Green forest fire alert in Canada",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=WF&eventid=1023982",
+        "pubDate": "Thu, 29 May 2025 19:00:13 GMT",
+        "description": "On 29/05/2025, a forest fire started in Canada,  until 29/05/2025.",
+        "guid": "WF1023982",
+        "severity": {
+            "@unit": "ha",
+            "@value": "11360",
+            "#text": "Green impact for forestfire in 11360 ha"
+        },
+        "severitylevel": null,
+        "eventtype": "WF",
+        "country": "Canada",
+        "population": "0 people affected in the area",
+        "vulnerability": null,
+        "coordinates": "59.465746922421751 -120.10768906237615"
+    },
+    {
+        "title": "Green alert for tropical cyclone ALVIN-25. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=TC&eventid=1001163",
+        "pubDate": "Wed, 28 May 2025 20:50:38 GMT",
+        "description": "From 28/05/2025 to 30/05/2025, a Tropical Storm (maximum wind speed of 93 km/h) ALVIN-25 was active in EastPacific. The cyclone affects these countries: [unknown] (vulnerability [unknown]). Estimated population affected by category 1 (120 km/h) wind speeds or higher is 0  (0 in tropical storm).",
+        "guid": "TC1001163",
+        "severity": {
+            "@unit": "km/h",
+            "@value": "92.592",
+            "#text": "Tropical Storm (maximum wind speed of 83 km/h)"
+        },
+        "severitylevel": null,
+        "eventtype": "TC",
+        "country": null,
+        "population": "Population affected by Category 1 (120 km/h) wind speeds or higher is 0 (0 in Tropical Storm)",
+        "vulnerability": null,
+        "coordinates": "16.6 -108.3"
+    },
+    {
+        "title": "Green earthquake alert (Magnitude 5.8M, Depth:59.416km) in Guam 28/05/2025 13:34 UTC, 180 thousand in 100km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483551",
+        "pubDate": "Wed, 28 May 2025 13:45:13 GMT",
+        "description": "On 5/28/2025 1:34:17 PM, an earthquake occurred in Guam potentially affecting 180 thousand in 100km. The earthquake had Magnitude 5.8M, Depth:59.416km.",
+        "guid": "EQ1483551",
+        "severity": {
+            "@unit": "M",
+            "@value": "5.8",
+            "#text": "Magnitude 5.8M, Depth:59.4km"
+        },
+        "severitylevel": null,
+        "eventtype": "EQ",
+        "country": "Guam",
+        "population": "160 thousand in MMI IV",
+        "vulnerability": null,
+        "coordinates": "12.8468 144.9435"
+    },
+    {
+        "title": "Green earthquake alert (Magnitude 5.9M, Depth:202.438km) in Vanuatu 28/05/2025 08:57 UTC, 20 thousand in 100km.",
+        "link": "https://www.gdacs.org/report.aspx?eventtype=EQ&eventid=1483527",
+        "pubDate": "Wed, 28 May 2025 09:13:39 GMT",
+        "description": "On 5/28/2025 8:57:48 AM, an earthquake occurred in Vanuatu potentially affecting 20 thousand in 100km. The earthquake had Magnitude 5.9M, Depth:202.438km.",
+        "guid": "EQ1483527",
+        "severity": {
+            "@unit": "M",
+            "@value": "5.9",
+            "#text": "Magnitude 5.9M, Depth:202.4km"
+        },
+        "severitylevel": null,
+        "eventtype": "EQ",
+        "country": "Vanuatu",
+        "population": "20 thousand in MMI IV",
+        "vulnerability": null,
+        "coordinates": "-14.2672 167.2762"
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "id": "52373",
+        "score": 1,
+        "fields": {
+            "id": 52373,
+            "uuid": "47815ef0-d209-44c7-92e1-77b9204a417c",
+            "name": "Algeria: Floods - May 2025",
+            "description": "Between 14 and 16 May 2025, severe flash floods triggered by intense rainfall and hailstorms affected at least 15 provinces across Algeria, with Djelfa, M’Sila, Laghouat, and Tiaret being the most severely impacted. The floods resulted in the deaths of 5 people, left 1 person missing, and injured over 100 individuals. Approximately 250 families have been affected by damage to their homes, and about 700 people were displaced due to the destruction of houses or unsafe living conditions. The impact has been devastating for rural livelihoods. Over 3,000 livestock—mainly sheep and turkeys—were lost, with further losses still being counted. At least 12 farms and 60 hectares of crops were destroyed, and damage assessments are ongoing. In terms of shelter, 252 houses were damaged, including 110 in Tiaret, 80 in Djelfa, 14 in M’Sila, and 48 in Laghouat. Infrastructure has also suffered severely, with multiple roads rendered impassable and at least five bridges either collapsed or critically damaged. Vulnerable rural and semi-rural communities have experienced major disruptions to their livelihoods, mobility, and access to essential services. Entire neighborhoods remain inundated, and vital transport links such as National Road 40 remain inaccessible. Coordination efforts are ongoing, with immediate priorities focusing on emergency shelter, relief item distribution, and psychosocial support for displaced and affected populations. ([IFRC, 29 May 2025](https://reliefweb.int/node/4155954))",
+            "status": "ongoing",
+            "glide": "FL-2025-000068-DZA",
+            "primary_country": {
+                "href": "https://api.reliefweb.int/v1/countries/16?appname=my-disaster-app",
+                "id": 16,
+                "name": "Algeria",
+                "shortname": "Algeria",
+                "iso3": "dza",
+                "location": {
+                    "lat": 28.16,
+                    "lon": 2.63
+                }
+            },
+            "primary_type": {
+                "id": 4611,
+                "name": "Flood",
+                "code": "FL"
+            },
+            "country": [
+                {
+                    "href": "https://api.reliefweb.int/v1/countries/16?appname=my-disaster-app",
+                    "id": 16,
+                    "name": "Algeria",
+                    "shortname": "Algeria",
+                    "iso3": "dza",
+                    "location": {
+                        "lat": 28.16,
+                        "lon": 2.63
+                    },
+                    "primary": true
+                }
+            ],
+            "type": [
+                {
+                    "id": 4611,
+                    "name": "Flood",
+                    "code": "FL",
+                    "primary": true
+                }
+            ],
+            "url": "https://reliefweb.int/taxonomy/term/52373",
+            "url_alias": "https://reliefweb.int/disaster/fl-2025-000068-dza",
+            "date": {
+                "changed": "2025-05-30T08:40:35+00:00",
+                "created": "2025-05-30T08:40:35+00:00",
+                "event": "2025-05-14T00:00:00+00:00"
+            },
+            "current": true,
+            "description-html": "<p>Between 14 and 16 May 2025, severe flash floods triggered by intense rainfall and hailstorms affected at least 15 provinces across Algeria, with Djelfa, M’Sila, Laghouat, and Tiaret being the most severely impacted. The floods resulted in the deaths of 5 people, left 1 person missing, and injured over 100 individuals. Approximately 250 families have been affected by damage to their homes, and about 700 people were displaced due to the destruction of houses or unsafe living conditions. The impact has been devastating for rural livelihoods. Over 3,000 livestock—mainly sheep and turkeys—were lost, with further losses still being counted. At least 12 farms and 60 hectares of crops were destroyed, and damage assessments are ongoing. In terms of shelter, 252 houses were damaged, including 110 in Tiaret, 80 in Djelfa, 14 in M’Sila, and 48 in Laghouat. Infrastructure has also suffered severely, with multiple roads rendered impassable and at least five bridges either collapsed or critically damaged. Vulnerable rural and semi-rural communities have experienced major disruptions to their livelihoods, mobility, and access to essential services. Entire neighborhoods remain inundated, and vital transport links such as National Road 40 remain inaccessible. Coordination efforts are ongoing, with immediate priorities focusing on emergency shelter, relief item distribution, and psychosocial support for displaced and affected populations. (<a href=\"https://reliefweb.int/node/4155954\">IFRC, 29 May 2025</a>)</p>\n",
+            "profile": {
+                "overview": "Between 14 and 16 May 2025, severe flash floods triggered by intense rainfall and hailstorms affected at least 15 provinces across Algeria, with Djelfa, M’Sila, Laghouat, and Tiaret being the most severely impacted. The floods resulted in the deaths of 5 people, left 1 person missing, and injured over 100 individuals. Approximately 250 families have been affected by damage to their homes, and about 700 people were displaced due to the destruction of houses or unsafe living conditions. The impact has been devastating for rural livelihoods. Over 3,000 livestock—mainly sheep and turkeys—were lost, with further losses still being counted. At least 12 farms and 60 hectares of crops were destroyed, and damage assessments are ongoing. In terms of shelter, 252 houses were damaged, including 110 in Tiaret, 80 in Djelfa, 14 in M’Sila, and 48 in Laghouat. Infrastructure has also suffered severely, with multiple roads rendered impassable and at least five bridges either collapsed or critically damaged. Vulnerable rural and semi-rural communities have experienced major disruptions to their livelihoods, mobility, and access to essential services. Entire neighborhoods remain inundated, and vital transport links such as National Road 40 remain inaccessible. Coordination efforts are ongoing, with immediate priorities focusing on emergency shelter, relief item distribution, and psychosocial support for displaced and affected populations. ([IFRC, 29 May 2025](https://reliefweb.int/node/4155954))",
+                "overview-html": "<p>Between 14 and 16 May 2025, severe flash floods triggered by intense rainfall and hailstorms affected at least 15 provinces across Algeria, with Djelfa, M’Sila, Laghouat, and Tiaret being the most severely impacted. The floods resulted in the deaths of 5 people, left 1 person missing, and injured over 100 individuals. Approximately 250 families have been affected by damage to their homes, and about 700 people were displaced due to the destruction of houses or unsafe living conditions. The impact has been devastating for rural livelihoods. Over 3,000 livestock—mainly sheep and turkeys—were lost, with further losses still being counted. At least 12 farms and 60 hectares of crops were destroyed, and damage assessments are ongoing. In terms of shelter, 252 houses were damaged, including 110 in Tiaret, 80 in Djelfa, 14 in M’Sila, and 48 in Laghouat. Infrastructure has also suffered severely, with multiple roads rendered impassable and at least five bridges either collapsed or critically damaged. Vulnerable rural and semi-rural communities have experienced major disruptions to their livelihoods, mobility, and access to essential services. Entire neighborhoods remain inundated, and vital transport links such as National Road 40 remain inaccessible. Coordination efforts are ongoing, with immediate priorities focusing on emergency shelter, relief item distribution, and psychosocial support for displaced and affected populations. (<a href=\"https://reliefweb.int/node/4155954\">IFRC, 29 May 2025</a>)</p>\n"
+            }
+        },
+        "href": "https://api.reliefweb.int/v1/disasters/52373?appname=my-disaster-app"
+    }
+]

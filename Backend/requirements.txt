@@ -1,0 +1,10 @@
+Flask==2.3.3
+Flask-CORS==4.0.0
+requests==2.31.0
+xmltodict==0.13.0
+PyYAML==6.0.1
+geocoder==1.38.1
+prometheus-client==0.17.1
+Werkzeug==2.3.7
+gunicorn==21.2.0
+python-dotenv==1.0.0
