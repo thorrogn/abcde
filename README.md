@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Disaster Management Information System
 
 A comprehensive real-time disaster monitoring and information system that aggregates data from multiple sources including GDACS, ReliefWeb, and weather APIs to provide timely alerts and emergency information.
@@ -236,3 +237,6 @@ The system automatically fetches new data:
 - Disaster data: Every 5 minutes
 - Weather data: Every 15 minutes
 - Frontend refreshes: Every 5 minutes (configurable)
+=======
+# abcde
+>>>>>>> 7624ba770223ceecbf2374933c04bf215756058d
